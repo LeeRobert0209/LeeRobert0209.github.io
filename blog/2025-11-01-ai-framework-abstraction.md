@@ -1,6 +1,6 @@
 ---
 title: "从Lisp到PyTorch：顶尖黑客的“抽象”战争如何在AI时代重演"
-date: 2025-11-01 22:00:00 +0800
+date: 2025-11-01 
 categories: [人工智能, 编程哲学, 深度学习框架]
 tags: [PyTorch, AI框架, Lisp, 架构, 效率奇点]
 ---
