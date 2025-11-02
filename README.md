@@ -24,7 +24,7 @@
 
 | 文章标题 | 状态 | 首发链接（腾讯云） | 源码链接（本仓库） |
 | :--- | :--- | :--- | :--- |
-| **重塑认知：从语言哲学看 AI 框架的“降维打击”** | 已完成 | [https://leerobert.site/blog/](https://leerobert.site/blog/) | [`./blog/2025-11-01-ai-framework-philosophy.md`](./blog/2025-11-01-ai-framework-philosophy.md) |
+| **重塑认知：从语言哲学看 AI 框架的“降维打击”** | 已完成 | [https://leerobert.site/blog/](https://leerobert.site/blog/) | [`./blog/2025-11-01-ai-framework-philosophy.md`](./blog page/2025-11-01-ai-framework-abstraction.md) |
 | *[未来文章标题]* | 待创作 | | |
 
 ### 🛠️ 核心项目与环境路径
